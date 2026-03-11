@@ -3,3 +3,4 @@ Hello, world! This is the git repository for Introductory Computational Physics,
 Introduce yourself!
 
 Armando Montoya-Pina
+Jeremy Lusk
